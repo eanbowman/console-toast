@@ -1,5 +1,5 @@
 /* toast.js - Adds toast functionality to a page
- * Based on https://github.com/eanbowman/console-toast
+ * https://github.com/eanbowman/console-toast
  */
 
 var _toast_;
